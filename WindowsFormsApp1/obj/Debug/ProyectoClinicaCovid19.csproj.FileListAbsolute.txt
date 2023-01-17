@@ -1,0 +1,45 @@
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProyectoClinicaCovid19.csproj.AssemblyReference.cache
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProyectoClinicaCovid19.csproj.GenerateResource.cache
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProyectoClinicaCovid19.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProyectoClinicaCovid19.csproj.CopyComplete
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPaciente.resources
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPrincipal.resources
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BLL.dll
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAL.dll
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BLL.pdb
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAL.pdb
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmBusquedaPaciente.resources
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmSintomas.resources
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmEstadistica.resources
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProyectoClinicaCovid19.csproj.AssemblyReference.cache
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProyectoClinicaCovid19.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmEstadistica.resources
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmBusquedaPaciente.resources
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPrincipal.resources
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmSintomas.resources
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProyectoClinicaCovid19.csproj.GenerateResource.cache
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProyectoClinicaCovid19.csproj.CoreCompileInputs.cache
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BLL.dll
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAL.dll
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BLL.pdb
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAL.pdb
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProyectoClinicaCovid19.csproj.CopyComplete
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmAgregarPaciente.resources
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmAgregarUsuario.resources
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmBusquedaUsuario.resources
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmLogin.resources
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmEsta.resources

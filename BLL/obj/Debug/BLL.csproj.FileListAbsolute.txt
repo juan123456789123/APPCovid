@@ -1,0 +1,12 @@
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\BLL\bin\Debug\BLL.dll
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\BLL\bin\Debug\BLL.pdb
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\BLL\obj\Debug\BLL.dll
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\BLL\obj\Debug\BLL.pdb
+C:\Users\Daniel\Source\Repos\AppCovid19CR\WindowsFormsApp1\BLL\bin\Debug\BLL.dll
+C:\Users\Daniel\Source\Repos\AppCovid19CR\WindowsFormsApp1\BLL\bin\Debug\BLL.pdb
+C:\Users\Daniel\Source\Repos\AppCovid19CR\WindowsFormsApp1\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Daniel\Source\Repos\AppCovid19CR\WindowsFormsApp1\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Source\Repos\AppCovid19CR\WindowsFormsApp1\BLL\obj\Debug\BLL.dll
+C:\Users\Daniel\Source\Repos\AppCovid19CR\WindowsFormsApp1\BLL\obj\Debug\BLL.pdb

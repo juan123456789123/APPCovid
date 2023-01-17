@@ -1,0 +1,27 @@
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\DAL\bin\Debug\DAL.dll
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\DAL\bin\Debug\DAL.pdb
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\DAL\bin\Debug\BLL.dll
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\DAL\bin\Debug\BLL.pdb
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\DAL\obj\Debug\DAL.dll
+C:\Users\Daniel\OneDrive\Documentos\UCR\Vll Semestre\Ingenieria del software\Proyecto Final\Versiones\Base de Datos\Clínica Covid19 V-1.0\WindowsFormsApp1\DAL\obj\Debug\DAL.pdb
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\DAL\bin\Debug\DAL.dll
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\DAL\bin\Debug\DAL.pdb
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\DAL\bin\Debug\BLL.dll
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\DAL\bin\Debug\BLL.pdb
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\DAL\obj\Debug\DAL.dll
+C:\Users\maria\Downloads\WindowsFormsApp1\WindowsFormsApp1\DAL\obj\Debug\DAL.pdb
+C:\Users\Daniel\Source\Repos\AppCovid19CR\WindowsFormsApp1\DAL\bin\Debug\DAL.dll
+C:\Users\Daniel\Source\Repos\AppCovid19CR\WindowsFormsApp1\DAL\bin\Debug\DAL.pdb
+C:\Users\Daniel\Source\Repos\AppCovid19CR\WindowsFormsApp1\DAL\bin\Debug\BLL.dll
+C:\Users\Daniel\Source\Repos\AppCovid19CR\WindowsFormsApp1\DAL\bin\Debug\BLL.pdb
+C:\Users\Daniel\Source\Repos\AppCovid19CR\WindowsFormsApp1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Daniel\Source\Repos\AppCovid19CR\WindowsFormsApp1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Source\Repos\AppCovid19CR\WindowsFormsApp1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Daniel\Source\Repos\AppCovid19CR\WindowsFormsApp1\DAL\obj\Debug\DAL.dll
+C:\Users\Daniel\Source\Repos\AppCovid19CR\WindowsFormsApp1\DAL\obj\Debug\DAL.pdb
